@@ -1,0 +1,18 @@
+var dec ;
+document.write(dec);
+document.write("<br>");
+dec=5;
+document.write("Initial Value of Varible is" +dec+'');
+document.write("<br>");
+var dec=dec+1;
+document.write("Initial Value of Varible is after increment" +dec+'');
+document.write("<br>");
+var dec=dec+7;
+document.write("Initial Value of Varible is after addition to " +dec+'');
+document.write("<br>");
+var dec=dec-1;
+document.write("Initial Value of Varible is after dec to " +dec+'');
+document.write("<br>");
+var dec=dec%3;
+document.write("Initial Value of Varible is after reminder to " +dec+'');
+document.write("<br>");
